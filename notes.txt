@@ -1,1 +1,0 @@
-grep -i -e api -e s3 -e key -e secret -e pass -e aws -e azure -e github -e admin comments.txt | grep -vi copyright | less
